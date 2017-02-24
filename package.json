@@ -1,0 +1,8 @@
+{
+  "name": "react-tictactoe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gquental/react-tictactoe.git",
+  "author": "Guilherme Quental <guilherme@quent.al>",
+  "license": "MIT"
+}
